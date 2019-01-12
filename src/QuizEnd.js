@@ -4,9 +4,9 @@ class QuizEnd extends Component{
     render(){
         return(
             <div>
-            <p>Thaks for playing!</p>
-            <a href="">Reset Quiz</a>
-            </div>
+            <p>Thanks for playing!</p>
+            <a href=''>Reset Quiz</a>
+          </div>
 
         )
     }
